@@ -1,0 +1,438 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "RES_NAME": "Cushman Lake", "DAM_NAME": "Cushman", "RIVER": "N.Fork Skokomish", "YEAR": 1926, "VOLUME": 0.559, "USAGE": "154" }, "geometry": { "type": "Point", "coordinates": [ -123.216697692871094, 47.416671752929688 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Chelan Lake", "DAM_NAME": "Chelan", "RIVER": "Chelan", "YEAR": 1927, "VOLUME": 0.83, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -120.016700744628906, 47.849998474121094 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Green Peter", "DAM_NAME": "Green Peter", "RIVER": "Middle Santiam", "YEAR": 1967, "VOLUME": 0.53, "USAGE": "31564" }, "geometry": { "type": "Point", "coordinates": [ -122.61669921875, 44.416671752929688 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Detroit", "DAM_NAME": "Detroit", "RIVER": "N.Santiam", "YEAR": 1953, "VOLUME": 0.561, "USAGE": "3145" }, "geometry": { "type": "Point", "coordinates": [ -122.25, 44.716670989990234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Blackfoot", "DAM_NAME": null, "RIVER": "Blackfoot", "YEAR": 1924, "VOLUME": 0.51, "USAGE": "5" }, "geometry": { "type": "Point", "coordinates": [ -111.716697692871094, 43.0 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Granby Lake", "DAM_NAME": "Granby", "RIVER": "Colorado", "YEAR": 1949, "VOLUME": 0.666, "USAGE": "514" }, "geometry": { "type": "Point", "coordinates": [ -105.86669921875, 40.133331298828125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Camanche", "DAM_NAME": "Camanche", "RIVER": "Mokelumne", "YEAR": 1963, "VOLUME": 0.532, "USAGE": "354" }, "geometry": { "type": "Point", "coordinates": [ -121.016700744628906, 38.216670989990234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "John Martin", "DAM_NAME": "John Martin", "RIVER": "Arkansas", "YEAR": 1943, "VOLUME": 0.795, "USAGE": "354" }, "geometry": { "type": "Point", "coordinates": [ -102.916702270507812, 38.066669464111328 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Stockton", "DAM_NAME": "Stockton", "RIVER": "Sac", "YEAR": 1969, "VOLUME": 1.094, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -93.766670227050781, 37.700000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Greers Ferry", "DAM_NAME": "Greers Ferry", "RIVER": "Little Red", "YEAR": 1962, "VOLUME": 3.504, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -92.0, 35.516670227050781 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Grapevine", "DAM_NAME": "Grapevine", "RIVER": "Denton Creek", "YEAR": 1952, "VOLUME": 0.537, "USAGE": "3264" }, "geometry": { "type": "Point", "coordinates": [ -97.066673278808594, 32.966670989990234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Greeson Lake", "DAM_NAME": "Nerrows", "RIVER": "Little Missouri", "YEAR": 1951, "VOLUME": 0.503, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -93.716667175292969, 34.133331298828125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Wister Lake", "DAM_NAME": "Wister", "RIVER": "Poteau", "YEAR": 1949, "VOLUME": 0.529, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -94.716667175292969, 34.950000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Stillhouse Hollow", "DAM_NAME": "Stillhouse Hollow", "RIVER": "Lampasas", "YEAR": 1968, "VOLUME": 0.777, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -97.516670227050781, 31.016660690307617 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Conroe Lake", "DAM_NAME": null, "RIVER": "W.Fork San Jacinto", "YEAR": 1973, "VOLUME": 0.53, "USAGE": "25" }, "geometry": { "type": "Point", "coordinates": [ -95.566673278808594, 30.366670608520508 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "O'The Pines Lake", "DAM_NAME": null, "RIVER": "Cypress", "YEAR": 1957, "VOLUME": 1.037, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -94.5, 32.75 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Enid Lake", "DAM_NAME": "Enid", "RIVER": "Yocona", "YEAR": 1952, "VOLUME": 0.814, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -89.900001525878906, 34.133331298828125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Grenada Lake", "DAM_NAME": "Grenada", "RIVER": "Yalobusha", "YEAR": 1954, "VOLUME": 1.648, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -89.766670227050781, 33.816669464111328 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Barren River", "DAM_NAME": "Barren River Lake", "RIVER": "Barren", "YEAR": 1964, "VOLUME": 1.005, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -86.116668701171875, 36.866668701171875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Hiwassee Lake", "DAM_NAME": "Hiwassee", "RIVER": "Hiwassee", "YEAR": 1940, "VOLUME": 0.54, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -84.166656494140625, 35.133331298828125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Allatoona Lake", "DAM_NAME": "Allatoona Lake", "RIVER": "Etowah", "YEAR": 1955, "VOLUME": 0.825, "USAGE": "3142" }, "geometry": { "type": "Point", "coordinates": [ -84.716667175292969, 34.166671752929688 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake Entiat", "DAM_NAME": "Rocky Reech", "RIVER": "Columbia", "YEAR": 1962, "VOLUME": 1.1, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -120.266700744628906, 47.533329010009766 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Merwin Lake", "DAM_NAME": "Merwin", "RIVER": "Lewis", "YEAR": 1931, "VOLUME": 0.52, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -122.550003051757812, 45.950000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Yale Lake", "DAM_NAME": "Yale", "RIVER": "Lewis", "YEAR": 1953, "VOLUME": 0.5, "USAGE": "2134" }, "geometry": { "type": "Point", "coordinates": [ -122.333297729492188, 45.966670989990234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Swift", "DAM_NAME": "Swift", "RIVER": "Lewis", "YEAR": 1958, "VOLUME": 0.93, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -122.199996948242188, 46.066661834716797 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake Almanor", "DAM_NAME": "Lake Almanor", "RIVER": "N.Fork Feather", "YEAR": 1913, "VOLUME": 1.61, "USAGE": "15" }, "geometry": { "type": "Point", "coordinates": [ -121.083297729492188, 40.166671752929688 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Folsom Lake", "DAM_NAME": "Folsom", "RIVER": "American", "YEAR": 1956, "VOLUME": 1.246, "USAGE": "3512" }, "geometry": { "type": "Point", "coordinates": [ -121.150001525878906, 38.700000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "New Melones", "DAM_NAME": "New Melones", "RIVER": "Stanislaus", "YEAR": 1979, "VOLUME": 2.96, "USAGE": "5134" }, "geometry": { "type": "Point", "coordinates": [ -120.599998474121094, 37.983329772949219 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Don Pedro", "DAM_NAME": "Don Pedro", "RIVER": "Tuolumne", "YEAR": 1971, "VOLUME": 2.504, "USAGE": "351" }, "geometry": { "type": "Point", "coordinates": [ -120.449996948242188, 37.683330535888672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Leech Lake", "DAM_NAME": null, "RIVER": "Leech Lake", "YEAR": 1902, "VOLUME": 0.851, "USAGE": "3264" }, "geometry": { "type": "Point", "coordinates": [ -94.300003051757812, 47.200000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Red Lake", "DAM_NAME": null, "RIVER": "Red Lake", "YEAR": 1931, "VOLUME": 4.029, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -95.283332824707031, 47.950000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Namakan Lake", "DAM_NAME": "Kettle Falls", "RIVER": "Rainy", "YEAR": 1914, "VOLUME": 0.885, "USAGE": "614" }, "geometry": { "type": "Point", "coordinates": [ -92.716667175292969, 48.633331298828125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Yellow Creek", "DAM_NAME": null, "RIVER": "Yellow Creek", "YEAR": 1972, "VOLUME": 1.202, "USAGE": "3" }, "geometry": { "type": "Point", "coordinates": [ -79.083343505859375, 40.583328247070312 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Candlewood Lake", "DAM_NAME": "Candlewood Lake", "RIVER": "Housetonic", "YEAR": 1928, "VOLUME": 0.669, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -73.449996948242188, 41.5 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Garza-Litlle Elm", "DAM_NAME": "Lewisville", "RIVER": "Elm Fork Triniti", "YEAR": 1955, "VOLUME": 1.236, "USAGE": "32" }, "geometry": { "type": "Point", "coordinates": [ -96.966667175292969, 33.066669464111328 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Pomme de Terre Lake", "DAM_NAME": "Pomme de Terre", "RIVER": "Pomme de Terre", "YEAR": 1960, "VOLUME": 0.801, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -93.316673278808594, 37.900001525878906 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Mark Twain Lake", "DAM_NAME": "Clarence Cannon", "RIVER": "Salt", "YEAR": 1979, "VOLUME": 0.671, "USAGE": "1324" }, "geometry": { "type": "Point", "coordinates": [ -91.683326721191406, 39.533329010009766 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Monroe", "DAM_NAME": null, "RIVER": "Salt Creek", "YEAR": 1965, "VOLUME": 0.543, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -86.516670227050781, 39.016670227050781 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Bayou Bodcau", "DAM_NAME": null, "RIVER": "Bodcau Creek", "YEAR": 1949, "VOLUME": 1.192, "USAGE": "3" }, "geometry": { "type": "Point", "coordinates": [ -93.516670227050781, 32.700000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Broken Bow", "DAM_NAME": "Broken Bow", "RIVER": "Mountain Fork", "YEAR": 1968, "VOLUME": 1.132, "USAGE": "1324" }, "geometry": { "type": "Point", "coordinates": [ -94.666656494140625, 34.150001525878906 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Arkabutla", "DAM_NAME": null, "RIVER": "Goldwater", "YEAR": 1945, "VOLUME": 0.647, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -90.133331298828125, 34.700000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Sardis", "DAM_NAME": "Sardis", "RIVER": "Little Tallahatchi", "YEAR": 1940, "VOLUME": 1.937, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -89.849998474121094, 34.333328247070312 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lewis Smith Lake", "DAM_NAME": "Lewis Smith", "RIVER": "Dipsey Fork", "YEAR": 1961, "VOLUME": 1.714, "USAGE": "3214" }, "geometry": { "type": "Point", "coordinates": [ -87.099998474121094, 33.933330535888672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Tims Ford Lake", "DAM_NAME": "Tims Ford", "RIVER": "Elk", "YEAR": 1970, "VOLUME": 0.761, "USAGE": "1324" }, "geometry": { "type": "Point", "coordinates": [ -86.333343505859375, 35.183330535888672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Summersville Lake", "DAM_NAME": "Summersville", "RIVER": "Gauley", "YEAR": 1966, "VOLUME": 0.51, "USAGE": "342" }, "geometry": { "type": "Point", "coordinates": [ -80.883331298828125, 38.216670989990234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Norris Lake", "DAM_NAME": "Norris", "RIVER": "Clinch", "YEAR": 1936, "VOLUME": 3.163, "USAGE": "364" }, "geometry": { "type": "Point", "coordinates": [ -84.099998474121094, 36.216670989990234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Fontana Lake", "DAM_NAME": "Fontana", "RIVER": "Little Tennessee", "YEAR": 1944, "VOLUME": 1.779, "USAGE": "36" }, "geometry": { "type": "Point", "coordinates": [ -83.800003051757812, 35.450000762939453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Watauga Lake", "DAM_NAME": "Watauga", "RIVER": "Watauga", "YEAR": 1948, "VOLUME": 0.836, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -82.116661071777344, 36.299999237060547 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Gaston Lake", "DAM_NAME": "Gaston", "RIVER": "Roanoke", "YEAR": 1963, "VOLUME": 0.633, "USAGE": "31" }, "geometry": { "type": "Point", "coordinates": [ -77.866668701171875, 36.366668701171875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Mille Lacs Lake", "DAM_NAME": null, "RIVER": "Rum", "YEAR": 1939, "VOLUME": 4.885, "USAGE": "4" }, "geometry": { "type": "Point", "coordinates": [ -93.578826904296875, 45.966751098632812 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Winnebago Lake", "DAM_NAME": null, "RIVER": "Fox", "YEAR": 1848, "VOLUME": 0.717, "USAGE": "61" }, "geometry": { "type": "Point", "coordinates": [ -88.453651428222656, 44.024631500244141 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Petenwell Lake", "DAM_NAME": null, "RIVER": "Wisconsin", "YEAR": 1949, "VOLUME": 0.562, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -89.846786499023438, 44.013458251953125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Coralville Lake", "DAM_NAME": "Coralville", "RIVER": "Iowa", "YEAR": 1957, "VOLUME": 0.602, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -91.574462890625, 41.657600402832031 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Shelbyville Lake", "DAM_NAME": "Lake Shelbyville", "RIVER": "Kaskaskia", "YEAR": 1970, "VOLUME": 0.843, "USAGE": "3264" }, "geometry": { "type": "Point", "coordinates": [ -88.903923034667969, 39.284000396728516 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Carlyle", "DAM_NAME": null, "RIVER": "Kaskaskia", "YEAR": 1967, "VOLUME": 1.212, "USAGE": "3624" }, "geometry": { "type": "Point", "coordinates": [ -89.237693786621094, 38.626091003417969 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Tuttle Creek", "DAM_NAME": "Tuttle Creek", "RIVER": "Big Blue", "YEAR": 1962, "VOLUME": 2.92, "USAGE": "7346" }, "geometry": { "type": "Point", "coordinates": [ -96.5296630859375, 39.243801116943359 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Milford", "DAM_NAME": "Milford", "RIVER": "Republican", "YEAR": 1965, "VOLUME": 0.512, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -97.000480651855469, 39.17205810546875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Harlan County Lake", "DAM_NAME": "Harlan County", "RIVER": "Republican", "YEAR": 1952, "VOLUME": 1.047, "USAGE": "354" }, "geometry": { "type": "Point", "coordinates": [ -99.231758117675781, 40.109508514404297 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "McConaughy Lake", "DAM_NAME": "Kingsley", "RIVER": "North Platte", "YEAR": 1941, "VOLUME": 2.4, "USAGE": "513" }, "geometry": { "type": "Point", "coordinates": [ -101.645797729492188, 41.181468963623047 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lewis and Clark Lake", "DAM_NAME": null, "RIVER": "Missouri", "YEAR": 1956, "VOLUME": 0.667, "USAGE": "35614" }, "geometry": { "type": "Point", "coordinates": [ -97.567680358886719, 42.867828369140625 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Francis Case Lake", "DAM_NAME": "Fort Randall", "RIVER": "Missouri", "YEAR": 1956, "VOLUME": 7.507, "USAGE": "35614" }, "geometry": { "type": "Point", "coordinates": [ -98.690078735351562, 43.076419830322266 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Sharpe Lake", "DAM_NAME": "Big Bend", "RIVER": "Missouri", "YEAR": 1967, "VOLUME": 2.34, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -99.580101013183594, 44.012611389160156 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Oahe", "DAM_NAME": "Oahe", "RIVER": "Missouri", "YEAR": 1963, "VOLUME": 29.111, "USAGE": "35614" }, "geometry": { "type": "Point", "coordinates": [ -100.407402038574219, 44.331089019775391 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Sakakawea Lake", "DAM_NAME": "Garrison", "RIVER": "Missouri", "YEAR": 1954, "VOLUME": 27.92, "USAGE": "35614" }, "geometry": { "type": "Point", "coordinates": [ -101.395896911621094, 47.404518127441406 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Ross Lake", "DAM_NAME": "Ross", "RIVER": "Scagit", "YEAR": 1949, "VOLUME": 1.77, "USAGE": "3214" }, "geometry": { "type": "Point", "coordinates": [ -121.053298950195312, 48.703170776367188 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Hungry Horse", "DAM_NAME": "Hungry Horse", "RIVER": "Flathead", "YEAR": 1952, "VOLUME": 4.273, "USAGE": "3514" }, "geometry": { "type": "Point", "coordinates": [ -113.851699829101562, 48.192150115966797 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Flathead Lake", "DAM_NAME": "Kerr", "RIVER": "Flathead", "YEAR": 1939, "VOLUME": 1.505, "USAGE": "3514" }, "geometry": { "type": "Point", "coordinates": [ -114.155197143554688, 47.662010192871094 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Bighorn Lake", "DAM_NAME": "Yellowtail", "RIVER": "Bighorn", "YEAR": 1966, "VOLUME": 1.077, "USAGE": "5134" }, "geometry": { "type": "Point", "coordinates": [ -107.972702026367188, 45.166469573974609 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Buffalo Bill", "DAM_NAME": "Buffalo Bill", "RIVER": "Shoshone", "YEAR": 1909, "VOLUME": 0.519, "USAGE": "51" }, "geometry": { "type": "Point", "coordinates": [ -109.055000305175781, 44.453399658203125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Fort Peck", "DAM_NAME": "Fort Peck", "RIVER": "Missouri", "YEAR": 1939, "VOLUME": 23.913, "USAGE": "35146" }, "geometry": { "type": "Point", "coordinates": [ -106.461997985839844, 47.952220916748047 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Tiber", "DAM_NAME": "Tiber", "RIVER": "Marias", "YEAR": 1956, "VOLUME": 1.193, "USAGE": "3542" }, "geometry": { "type": "Point", "coordinates": [ -111.270698547363281, 48.259708404541016 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Canyon Ferry Lake", "DAM_NAME": "Canyon Ferry", "RIVER": "Missouri", "YEAR": 1953, "VOLUME": 2.527, "USAGE": "35214" }, "geometry": { "type": "Point", "coordinates": [ -111.69580078125, 46.659019470214844 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Dworshak", "DAM_NAME": "Dworshak", "RIVER": "N.Fork Clearwater", "YEAR": 1974, "VOLUME": 4.26, "USAGE": "3164" }, "geometry": { "type": "Point", "coordinates": [ -116.289299011230469, 46.427700042724609 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Pend Oreille Lake", "DAM_NAME": "Albeni Falls", "RIVER": "Pend Oreille", "YEAR": 1952, "VOLUME": 1.92, "USAGE": "25614" }, "geometry": { "type": "Point", "coordinates": [ -116.408401489257812, 48.190059661865234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Coeur d'Alen Lake", "DAM_NAME": "Post Falls", "RIVER": "Spokan", "YEAR": 1906, "VOLUME": 0.78, "USAGE": "1" }, "geometry": { "type": "Point", "coordinates": [ -116.341300964355469, 47.196399688720703 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Noxon", "DAM_NAME": "Noxon Rapids", "RIVER": "Clark Fork", "YEAR": 1959, "VOLUME": 0.611, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -115.877098083496094, 47.937690734863281 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Koocanusa Lake", "DAM_NAME": "Libby", "RIVER": "Kootenai", "YEAR": 1973, "VOLUME": 7.165, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -115.310096740722656, 48.378559112548828 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Riffe Lake", "DAM_NAME": "Mossyrock", "RIVER": "Cowlitz", "YEAR": 1968, "VOLUME": 1.636, "USAGE": "1" }, "geometry": { "type": "Point", "coordinates": [ -122.333297729492188, 46.38201904296875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lookout Point", "DAM_NAME": "Lookout Point", "RIVER": "Middle Fork Willam", "YEAR": 1955, "VOLUME": 0.562, "USAGE": "35416" }, "geometry": { "type": "Point", "coordinates": [ -122.931396484375, 43.851119995117188 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake Billy Chinook", "DAM_NAME": "Round Butte", "RIVER": "Deschutes", "YEAR": 1964, "VOLUME": 0.703, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -121.313400268554688, 44.619651794433594 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Bonneville", "DAM_NAME": "Bonneville", "RIVER": "Columbia", "YEAR": 1938, "VOLUME": 0.89, "USAGE": "614" }, "geometry": { "type": "Point", "coordinates": [ -121.937400817871094, 45.671840667724609 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": null, "DAM_NAME": "John Day", "RIVER": "Columbia", "YEAR": 1968, "VOLUME": 3.26, "USAGE": "63154" }, "geometry": { "type": "Point", "coordinates": [ -120.665298461914062, 45.721408843994141 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake Wallula", "DAM_NAME": "McNary", "RIVER": "Columbia", "YEAR": 1954, "VOLUME": 1.66, "USAGE": "3561" }, "geometry": { "type": "Point", "coordinates": [ -119.088897705078125, 45.946651458740234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Potholes", "DAM_NAME": "O'Sullivan Dam", "RIVER": "Lower Crab Creek", "YEAR": 1949, "VOLUME": 0.65, "USAGE": "534" }, "geometry": { "type": "Point", "coordinates": [ -119.392601013183594, 46.772930145263672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Wanapum Lake", "DAM_NAME": "Wanapum", "RIVER": "Columbia", "YEAR": 1963, "VOLUME": 0.83, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -119.977401733398438, 46.990249633789062 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Franklin D.Roosevelt Lake", "DAM_NAME": "Grand Coulee", "RIVER": "Columbia", "YEAR": 1941, "VOLUME": 11.78, "USAGE": "5134" }, "geometry": { "type": "Point", "coordinates": [ -118.963897705078125, 47.932491302490234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Banks Lake", "DAM_NAME": "North", "RIVER": "Columbia", "YEAR": 1951, "VOLUME": 1.57, "USAGE": "41" }, "geometry": { "type": "Point", "coordinates": [ -119.138099670410156, 47.842399597167969 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Cle Elum Lake", "DAM_NAME": "Cle Elum", "RIVER": "Cle Elum", "YEAR": 1933, "VOLUME": 0.875, "USAGE": "534" }, "geometry": { "type": "Point", "coordinates": [ -121.054000854492188, 47.128421783447266 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Brownlee", "DAM_NAME": "Brownlee", "RIVER": "Snake", "YEAR": 1959, "VOLUME": 1.67, "USAGE": "3526" }, "geometry": { "type": "Point", "coordinates": [ -116.918998718261719, 44.824489593505859 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Cascade", "DAM_NAME": "Cascade", "RIVER": "N.Fork.Payette", "YEAR": 1949, "VOLUME": 0.87, "USAGE": "5134" }, "geometry": { "type": "Point", "coordinates": [ -116.122100830078125, 44.509040832519531 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake Owyhee", "DAM_NAME": "Owyhee", "RIVER": "Owyhee", "YEAR": 1932, "VOLUME": 1.38, "USAGE": "4613" }, "geometry": { "type": "Point", "coordinates": [ -117.300201416015625, 43.58734130859375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Upper Klamath Lake", "DAM_NAME": "Link River", "RIVER": "Klamath", "YEAR": 1938, "VOLUME": 1.08, "USAGE": "1" }, "geometry": { "type": "Point", "coordinates": [ -121.868896484375, 42.223171234130859 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Clear Lake", "DAM_NAME": null, "RIVER": "Lost", "YEAR": 1910, "VOLUME": 0.65, "USAGE": "235" }, "geometry": { "type": "Point", "coordinates": [ -121.211502075195312, 41.929290771484375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Clair Engle Lake", "DAM_NAME": "Trinity", "RIVER": "Trinity", "YEAR": 1962, "VOLUME": 3.02, "USAGE": "351" }, "geometry": { "type": "Point", "coordinates": [ -122.778900146484375, 40.8560791015625 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Shasta Lake", "DAM_NAME": "Shasta", "RIVER": "Sacramento", "YEAR": 1949, "VOLUME": 5.54, "USAGE": "2351" }, "geometry": { "type": "Point", "coordinates": [ -122.422500610351562, 40.703651428222656 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Berryessa Lake", "DAM_NAME": "Monticello", "RIVER": "Putah Creek", "YEAR": 1957, "VOLUME": 1.976, "USAGE": "5324" }, "geometry": { "type": "Point", "coordinates": [ -122.047798156738281, 38.496910095214844 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Oroville Lake", "DAM_NAME": "Oroville", "RIVER": "Feather", "YEAR": 1968, "VOLUME": 4.297, "USAGE": "2314" }, "geometry": { "type": "Point", "coordinates": [ -121.584800720214844, 39.570831298828125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "New Bullards Bar Lake", "DAM_NAME": "New Bullards Bar", "RIVER": "North Yuba", "YEAR": 1970, "VOLUME": 1.196, "USAGE": "1342" }, "geometry": { "type": "Point", "coordinates": [ -121.267898559570312, 39.413539886474609 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Tahoe Lake", "DAM_NAME": null, "RIVER": "Truckee", "YEAR": 1874, "VOLUME": 0.92, "USAGE": "514" }, "geometry": { "type": "Point", "coordinates": [ -120.213401794433594, 39.179378509521484 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "San Luis", "DAM_NAME": "San Luis", "RIVER": "San Luis Creek", "YEAR": 1967, "VOLUME": 2.517, "USAGE": "5124" }, "geometry": { "type": "Point", "coordinates": [ -120.968597412109375, 36.925201416015625 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Isabella", "DAM_NAME": "Isabella Lake", "RIVER": "Kern", "YEAR": 1953, "VOLUME": 0.703, "USAGE": "354" }, "geometry": { "type": "Point", "coordinates": [ -118.44000244140625, 35.621318817138672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Pine Flat", "DAM_NAME": "Pine Flat Lake", "RIVER": "Kings", "YEAR": 1954, "VOLUME": 1.233, "USAGE": "43521" }, "geometry": { "type": "Point", "coordinates": [ -119.286003112792969, 36.773319244384766 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Millerton Lake", "DAM_NAME": "Friant", "RIVER": "San Joaquin", "YEAR": 1942, "VOLUME": 0.64, "USAGE": "3524" }, "geometry": { "type": "Point", "coordinates": [ -119.648902893066406, 36.962791442871094 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Mohave Lake", "DAM_NAME": "Davis", "RIVER": "Colorado", "YEAR": 1949, "VOLUME": 2.24, "USAGE": "51" }, "geometry": { "type": "Point", "coordinates": [ -114.574699401855469, 35.154701232910156 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Havasu Lake", "DAM_NAME": "Parker", "RIVER": "Colorado", "YEAR": 1938, "VOLUME": 0.697, "USAGE": "35214" }, "geometry": { "type": "Point", "coordinates": [ -114.233497619628906, 34.20819091796875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Alamo Lake", "DAM_NAME": "Alamo", "RIVER": "Bill Williams", "YEAR": 1968, "VOLUME": 0.539, "USAGE": "345" }, "geometry": { "type": "Point", "coordinates": [ -113.476097106933594, 34.183940887451172 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake Mead", "DAM_NAME": "Hoover", "RIVER": "Colorado", "YEAR": 1936, "VOLUME": 34.852, "USAGE": "351264" }, "geometry": { "type": "Point", "coordinates": [ -114.724998474121094, 36.028888702392578 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Painted Rock", "DAM_NAME": "Painted Rock", "RIVER": "Gila", "YEAR": 1959, "VOLUME": 3.071, "USAGE": "3" }, "geometry": { "type": "Point", "coordinates": [ -112.851097106933594, 32.947238922119141 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Theodore Roosevelt Lake", "DAM_NAME": "Theodore Roosevelt", "RIVER": "Salt", "YEAR": 1911, "VOLUME": 1.703, "USAGE": "35142" }, "geometry": { "type": "Point", "coordinates": [ -111.123298645019531, 33.541210174560547 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "San Carlos", "DAM_NAME": "Coolidge", "RIVER": "Gila", "YEAR": 1928, "VOLUME": 1.49, "USAGE": "51" }, "geometry": { "type": "Point", "coordinates": [ -110.485496520996094, 33.147979736328125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Elephant Butte", "DAM_NAME": "Elephant Butte", "RIVER": "Rio Grande", "YEAR": 1916, "VOLUME": 2.602, "USAGE": "3514" }, "geometry": { "type": "Point", "coordinates": [ -107.165901184082031, 33.158199310302734 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Abiquiu", "DAM_NAME": "Abiquiu", "RIVER": "Rio Chama", "YEAR": 1963, "VOLUME": 1.509, "USAGE": "4" }, "geometry": { "type": "Point", "coordinates": [ -106.555900573730469, 36.168800354003906 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Navajo", "DAM_NAME": "Navajo", "RIVER": "San Juan", "YEAR": 1962, "VOLUME": 2.108, "USAGE": "354" }, "geometry": { "type": "Point", "coordinates": [ -107.597801208496094, 36.740550994873047 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Powell Lake", "DAM_NAME": "Glen Canyon", "RIVER": "Colorado", "YEAR": 1963, "VOLUME": 33.304, "USAGE": "35142" }, "geometry": { "type": "Point", "coordinates": [ -111.517997741699219, 36.876708984375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Blue Mesa", "DAM_NAME": "Blue Mesa", "RIVER": "Gunnison", "YEAR": 1966, "VOLUME": 1.161, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -107.334701538085938, 38.363540649414062 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Anderson Ranch", "DAM_NAME": "Anderson Ranch", "RIVER": "S.Fork Boise", "YEAR": 1950, "VOLUME": 0.61, "USAGE": "3514" }, "geometry": { "type": "Point", "coordinates": [ -115.453697204589844, 43.352001190185547 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "American Falls", "DAM_NAME": "American Falls", "RIVER": "Snake", "YEAR": 1927, "VOLUME": 2.09, "USAGE": "5132" }, "geometry": { "type": "Point", "coordinates": [ -112.859703063964844, 42.807109832763672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Palisades", "DAM_NAME": "Palisades", "RIVER": "S.Fork Snake", "YEAR": 1955, "VOLUME": 1.73, "USAGE": "23514" }, "geometry": { "type": "Point", "coordinates": [ -111.177696228027344, 43.329570770263672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Boysen", "DAM_NAME": "Boysen", "RIVER": "Wind", "YEAR": 1952, "VOLUME": 1.01, "USAGE": "51734" }, "geometry": { "type": "Point", "coordinates": [ -108.163398742675781, 43.458751678466797 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Jackson Lake", "DAM_NAME": null, "RIVER": "Snake", "YEAR": 1916, "VOLUME": 1.044, "USAGE": "5" }, "geometry": { "type": "Point", "coordinates": [ -110.504600524902344, 43.856929779052734 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Utah Lake", "DAM_NAME": null, "RIVER": "Jordan", "YEAR": 1885, "VOLUME": 1.047, "USAGE": "54" }, "geometry": { "type": "Point", "coordinates": [ -111.928298950195312, 40.303958892822266 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Strawberry", "DAM_NAME": "Soldier Creek", "RIVER": "Strawberry", "YEAR": 1973, "VOLUME": 1.365, "USAGE": "534" }, "geometry": { "type": "Point", "coordinates": [ -111.152000427246094, 40.209388732910156 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Flaming Gorde", "DAM_NAME": "Flaming Gorde", "RIVER": "Green", "YEAR": 1964, "VOLUME": 4.668, "USAGE": "51324" }, "geometry": { "type": "Point", "coordinates": [ -109.421401977539062, 40.895511627197266 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Pathfinder", "DAM_NAME": "Pathfinder", "RIVER": "North Platte", "YEAR": 1909, "VOLUME": 1.252, "USAGE": "541" }, "geometry": { "type": "Point", "coordinates": [ -106.847801208496094, 42.382968902587891 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Seminoe", "DAM_NAME": "Seminoe", "RIVER": "North Platte", "YEAR": 1939, "VOLUME": 1.247, "USAGE": "541" }, "geometry": { "type": "Point", "coordinates": [ -106.79949951171875, 41.959659576416016 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": null, "DAM_NAME": "Long Sault", "RIVER": "St.Lawrence", "YEAR": 1958, "VOLUME": 0.925, "USAGE": "643" }, "geometry": { "type": "Point", "coordinates": [ -74.677871704101562, 45.006801605224609 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Raystown Lake", "DAM_NAME": "Raystown", "RIVER": "Raystown Br.Juniat", "YEAR": 1973, "VOLUME": 0.634, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -78.011550903320312, 40.291130065917969 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Allegheny", "DAM_NAME": "Kinzua", "RIVER": "Allegheny", "YEAR": 1965, "VOLUME": 0.919, "USAGE": "1364" }, "geometry": { "type": "Point", "coordinates": [ -78.972236633300781, 41.861930847167969 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Pepacton", "DAM_NAME": "Downsville", "RIVER": "E.Branch Delaware", "YEAR": 1954, "VOLUME": 0.567, "USAGE": "214" }, "geometry": { "type": "Point", "coordinates": [ -74.987480163574219, 42.070629119873047 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Sacandaga", "DAM_NAME": "Conklingville", "RIVER": "Sacandaga", "YEAR": 1930, "VOLUME": 1.431, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -74.14990234375, 43.134731292724609 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Quabbin", "DAM_NAME": "Quabbin Winsor", "RIVER": "Swift", "YEAR": 1939, "VOLUME": 1.561, "USAGE": "21" }, "geometry": { "type": "Point", "coordinates": [ -72.243301391601562, 42.170169830322266 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Moosehead Lake", "DAM_NAME": null, "RIVER": "Kennebec", "YEAR": 1840, "VOLUME": 0.671, "USAGE": "81" }, "geometry": { "type": "Point", "coordinates": [ -69.649276733398438, 45.516391754150391 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Chesuncook Lake", "DAM_NAME": "Ripogenus", "RIVER": "W.Branch Penobscot", "YEAR": 1917, "VOLUME": 1.204, "USAGE": "81" }, "geometry": { "type": "Point", "coordinates": [ -69.286262512207031, 45.80889892578125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Okeechobee Lake", "DAM_NAME": null, "RIVER": "Okeechobee Lake", "YEAR": 1938, "VOLUME": 5.174, "USAGE": "36" }, "geometry": { "type": "Point", "coordinates": [ -80.580146789550781, 27.053249359130859 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Walter F.George", "DAM_NAME": "Walter F.George", "RIVER": "Chattahoochee", "YEAR": 1962, "VOLUME": 1.141, "USAGE": "6143" }, "geometry": { "type": "Point", "coordinates": [ -85.128448486328125, 31.606609344482422 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Seminole Lake", "DAM_NAME": "Jim Woodruff", "RIVER": "Apalachicola", "YEAR": 1957, "VOLUME": 0.526, "USAGE": "641" }, "geometry": { "type": "Point", "coordinates": [ -84.9490966796875, 30.655609130859375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "West Point Lake", "DAM_NAME": "West Point", "RIVER": "Chattahoochee", "YEAR": 1974, "VOLUME": 0.746, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -85.178382873535156, 32.8843994140625 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Martin Lake", "DAM_NAME": "Martin", "RIVER": "Tallapoosa", "YEAR": 1926, "VOLUME": 1.998, "USAGE": "143" }, "geometry": { "type": "Point", "coordinates": [ -85.835693359375, 32.604740142822266 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Pickwick Lake", "DAM_NAME": "Pickwick", "RIVER": "Tennessee", "YEAR": 1938, "VOLUME": 1.345, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -88.225563049316406, 35.090869903564453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Wheeler Lake", "DAM_NAME": "Wheeler", "RIVER": "Tennessee", "YEAR": 1936, "VOLUME": 1.417, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -87.135078430175781, 34.699691772460938 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Wilson Lake", "DAM_NAME": "Wilson", "RIVER": "Tennessee", "YEAR": 1924, "VOLUME": 0.718, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -87.641746520996094, 34.728549957275391 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Guntersville Lake", "DAM_NAME": "Guntersville", "RIVER": "Tennessee", "YEAR": 1939, "VOLUME": 1.255, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -86.392181396484375, 34.421810150146484 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Kentucky Lake", "DAM_NAME": "Kentucky", "RIVER": "Tennessee", "YEAR": 1944, "VOLUME": 7.395, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -88.25640869140625, 36.935840606689453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Barkley Lake", "DAM_NAME": "Barkley", "RIVER": "Cumberland", "YEAR": 1966, "VOLUME": 0.752, "USAGE": "1634" }, "geometry": { "type": "Point", "coordinates": [ -88.176986694335938, 37.016609191894531 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Old Hickory Lake", "DAM_NAME": "Old Hickory", "RIVER": "Cumberland", "YEAR": 1954, "VOLUME": 0.671, "USAGE": "6143" }, "geometry": { "type": "Point", "coordinates": [ -86.668670654296875, 36.301231384277344 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "J.Percy Priest Lake", "DAM_NAME": "J.Percy Priest", "RIVER": "Stones", "YEAR": 1967, "VOLUME": 0.804, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -86.666130065917969, 36.121089935302734 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Dale Hollow", "DAM_NAME": "Dale Hollow", "RIVER": "Obey", "YEAR": 1943, "VOLUME": 2.102, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -85.498977661132812, 36.571239471435547 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Center Hill", "DAM_NAME": "Center Hill", "RIVER": "Caney Fork", "YEAR": 1951, "VOLUME": 2.577, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -85.840118408203125, 36.137241363525391 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Cumberland Lake", "DAM_NAME": "Wolf Creek", "RIVER": "Cumberland", "YEAR": 1950, "VOLUME": 7.502, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -85.270469665527344, 36.797069549560547 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Nolin", "DAM_NAME": "Nolin Lake", "RIVER": "Nolin", "YEAR": 1963, "VOLUME": 0.751, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -86.244827270507812, 37.242378234863281 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Chickamauga Lake", "DAM_NAME": "Chickamauga", "RIVER": "Tennessee", "YEAR": 1940, "VOLUME": 0.869, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -85.179512023925781, 35.074718475341797 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Watts Bar Lake", "DAM_NAME": "Watts Bar", "RIVER": "Tennessee", "YEAR": 1942, "VOLUME": 1.395, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -84.827018737792969, 35.659969329833984 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Douglas Lake", "DAM_NAME": "Douglas", "RIVER": "French Broad", "YEAR": 1943, "VOLUME": 1.865, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -83.412498474121094, 35.897361755371094 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Cherokee Lake", "DAM_NAME": "Cherokee", "RIVER": "Holston", "YEAR": 1941, "VOLUME": 1.929, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -83.471282958984375, 36.052528381347656 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "South Holston Lake", "DAM_NAME": "South Holston", "RIVER": "South Fork Holston", "YEAR": 1950, "VOLUME": 0.917, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -82.1890869140625, 36.530780792236328 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Cave Run Lake", "DAM_NAME": "Cave Run", "RIVER": "Lickings", "YEAR": 1974, "VOLUME": 0.757, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -83.548370361328125, 38.164520263671875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Bluestone Lake", "DAM_NAME": "Bluestone", "RIVER": "New River", "YEAR": 1952, "VOLUME": 0.777, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -80.935920715332031, 37.643730163574219 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Smith Mountain Lake", "DAM_NAME": "Smith Mountain", "RIVER": "Roanoke", "YEAR": 1963, "VOLUME": 1.409, "USAGE": "2" }, "geometry": { "type": "Point", "coordinates": [ -79.591026306152344, 37.030769348144531 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "John H.Kerr", "DAM_NAME": "John H.Kerr", "RIVER": "Roanoke", "YEAR": 1952, "VOLUME": 3.46, "USAGE": "3614" }, "geometry": { "type": "Point", "coordinates": [ -78.149017333984375, 36.463428497314453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Norman Lake", "DAM_NAME": "Cowans Ford", "RIVER": "Katawba", "YEAR": 1962, "VOLUME": 1.346, "USAGE": "1" }, "geometry": { "type": "Point", "coordinates": [ -80.895011901855469, 35.569438934326172 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Murray Lake", "DAM_NAME": "Lake Murray", "RIVER": "Saluda", "YEAR": 1930, "VOLUME": 2.604, "USAGE": "1" }, "geometry": { "type": "Point", "coordinates": [ -81.240242004394531, 34.038379669189453 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Clark Hill", "DAM_NAME": "Clark Hill", "RIVER": "Savannah", "YEAR": 1953, "VOLUME": 3.571, "USAGE": "3416" }, "geometry": { "type": "Point", "coordinates": [ -82.139076232910156, 33.615161895751953 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Marion Lake", "DAM_NAME": "Santee", "RIVER": "Santee", "YEAR": 1941, "VOLUME": 1.786, "USAGE": "61" }, "geometry": { "type": "Point", "coordinates": [ -80.256202697753906, 33.42864990234375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Moultrie Lake", "DAM_NAME": "Pinopolis", "RIVER": "Santee", "YEAR": 1941, "VOLUME": 1.493, "USAGE": "61" }, "geometry": { "type": "Point", "coordinates": [ -80.04608154296875, 33.20465087890625 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Hartwell", "DAM_NAME": "Hartwell", "RIVER": "Savannah", "YEAR": 1960, "VOLUME": 3.145, "USAGE": "361" }, "geometry": { "type": "Point", "coordinates": [ -82.687217712402344, 34.127780914306641 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Richard B.Russell Lake", "DAM_NAME": "Richard B.Russell", "RIVER": "Savannah", "YEAR": 1990, "VOLUME": 1.555, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -82.629241943359375, 34.084228515625 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Keowee Lake", "DAM_NAME": "Jocassee", "RIVER": "Keowee", "YEAR": 1973, "VOLUME": 1.431, "USAGE": "1324" }, "geometry": { "type": "Point", "coordinates": [ -82.928398132324219, 34.782981872558594 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Weiss Lake", "DAM_NAME": null, "RIVER": "Coosa", "YEAR": 1961, "VOLUME": 0.75, "USAGE": "14" }, "geometry": { "type": "Point", "coordinates": [ -85.7967529296875, 34.090831756591797 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Sidney Lanier Lake", "DAM_NAME": "Buford", "RIVER": "Chattahoochee", "YEAR": 1958, "VOLUME": 2.365, "USAGE": "3214" }, "geometry": { "type": "Point", "coordinates": [ -84.0216064453125, 34.079738616943359 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Livingston Lake", "DAM_NAME": "Livingston", "RIVER": "Trinity", "YEAR": 1969, "VOLUME": 2.205, "USAGE": "52" }, "geometry": { "type": "Point", "coordinates": [ -95.049003601074219, 30.619369506835938 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Sam Rayburn", "DAM_NAME": "Sam Rayburn", "RIVER": "Angelina", "YEAR": 1965, "VOLUME": 3.519, "USAGE": "3214" }, "geometry": { "type": "Point", "coordinates": [ -94.124382019042969, 31.059349060058594 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Toledo Bend", "DAM_NAME": "Toledo Bend", "RIVER": "Sabine", "YEAR": 1968, "VOLUME": 5.522, "USAGE": "514" }, "geometry": { "type": "Point", "coordinates": [ -93.467910766601562, 31.125389099121094 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Somerville Lake", "DAM_NAME": null, "RIVER": "Yegua", "YEAR": 1967, "VOLUME": 0.626, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -96.420608520507812, 30.329559326171875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Belton", "DAM_NAME": "Belton", "RIVER": "Leon", "YEAR": 1954, "VOLUME": 1.352, "USAGE": "352" }, "geometry": { "type": "Point", "coordinates": [ -97.493896484375, 31.160980224609375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Whitney Lake", "DAM_NAME": "Whitney", "RIVER": "Brazos", "YEAR": 1951, "VOLUME": 2.486, "USAGE": "35214" }, "geometry": { "type": "Point", "coordinates": [ -97.224411010742188, 31.767879486083984 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Travis Lake", "DAM_NAME": "Marshall Ford", "RIVER": "Colorado", "YEAR": 1942, "VOLUME": 2.402, "USAGE": "35214" }, "geometry": { "type": "Point", "coordinates": [ -97.888320922851562, 30.37091064453125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Buchanan Lake", "DAM_NAME": "Buchanan", "RIVER": "Colorado", "YEAR": 1937, "VOLUME": 1.222, "USAGE": "521" }, "geometry": { "type": "Point", "coordinates": [ -98.403892517089844, 30.711349487304688 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lyndon B.Johnson Lake", "DAM_NAME": "Alvin Wirtz", "RIVER": "Colorado", "YEAR": 1950, "VOLUME": 0.0, "USAGE": "1524" }, "geometry": { "type": "Point", "coordinates": [ -98.253219604492188, 30.515119552612305 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Canyon", "DAM_NAME": "Canyon", "RIVER": "Guadalupe", "YEAR": 1964, "VOLUME": 0.5, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -98.358497619628906, 29.770719528198242 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Meredith Lake", "DAM_NAME": "Sanford", "RIVER": "Canadian", "YEAR": 1965, "VOLUME": 1.066, "USAGE": "32" }, "geometry": { "type": "Point", "coordinates": [ -101.516899108886719, 35.672859191894531 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "E.V.Spence", "DAM_NAME": "Robert Lee", "RIVER": "Colorado", "YEAR": 1969, "VOLUME": 0.603, "USAGE": "2" }, "geometry": { "type": "Point", "coordinates": [ -100.622200012207031, 31.727560043334961 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Twin Buttes", "DAM_NAME": "Twin Buttes", "RIVER": "Middle Concho", "YEAR": 1962, "VOLUME": 0.739, "USAGE": "3524" }, "geometry": { "type": "Point", "coordinates": [ -100.613800048828125, 31.267969131469727 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Foss", "DAM_NAME": "Foss", "RIVER": "Washita", "YEAR": 1961, "VOLUME": 0.538, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -99.124656677246094, 35.559528350830078 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Texoma Lake", "DAM_NAME": "Denison", "RIVER": "Red", "YEAR": 1943, "VOLUME": 6.813, "USAGE": "3214" }, "geometry": { "type": "Point", "coordinates": [ -96.574111938476562, 33.834320068359375 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Kemp Lake", "DAM_NAME": "Lake Kemp", "RIVER": "Wichita", "YEAR": 1923, "VOLUME": 0.569, "USAGE": "5243" }, "geometry": { "type": "Point", "coordinates": [ -99.127388000488281, 33.675479888916016 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Millwood", "DAM_NAME": "Millwood", "RIVER": "Little", "YEAR": 1966, "VOLUME": 2.291, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -93.877998352050781, 33.682209014892578 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Texarkana Lake", "DAM_NAME": "Wright Patman", "RIVER": "Sulphur", "YEAR": 1957, "VOLUME": 3.27, "USAGE": "432" }, "geometry": { "type": "Point", "coordinates": [ -94.180732727050781, 33.191638946533203 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Hugo Lake", "DAM_NAME": "Hugo", "RIVER": "Kiamichi", "YEAR": 1974, "VOLUME": 1.192, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -95.460411071777344, 34.00115966796875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "De Gray", "DAM_NAME": "Degray", "RIVER": "Caddo", "YEAR": 1969, "VOLUME": 0.808, "USAGE": "1324" }, "geometry": { "type": "Point", "coordinates": [ -93.048072814941406, 34.214309692382812 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Ouachita Lake", "DAM_NAME": "Blakely Mountain", "RIVER": "Ouachita", "YEAR": 1953, "VOLUME": 3.411, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -93.2252197265625, 34.585369110107422 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Bridgeport Lake", "DAM_NAME": "Bridgeport", "RIVER": "W.Fork Trinity", "YEAR": 1931, "VOLUME": 0.5, "USAGE": "524" }, "geometry": { "type": "Point", "coordinates": [ -97.804840087890625, 33.154399871826172 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Possum Kingdom Lake", "DAM_NAME": "Morris Sheppard", "RIVER": "Brazos", "YEAR": 1941, "VOLUME": 0.893, "USAGE": "3214" }, "geometry": { "type": "Point", "coordinates": [ -98.544380187988281, 32.780399322509766 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lavon", "DAM_NAME": null, "RIVER": "East Fork Triniti", "YEAR": 1952, "VOLUME": 0.522, "USAGE": "52" }, "geometry": { "type": "Point", "coordinates": [ -96.511688232421875, 33.052841186523438 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Ray Hubbard Lake", "DAM_NAME": null, "RIVER": "East Fork Triniti", "YEAR": 1968, "VOLUME": 0.604, "USAGE": "2" }, "geometry": { "type": "Point", "coordinates": [ -96.494918823242188, 32.845878601074219 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Tawakoni Lake", "DAM_NAME": null, "RIVER": "Sabine", "YEAR": 1960, "VOLUME": 1.153, "USAGE": "52" }, "geometry": { "type": "Point", "coordinates": [ -95.867652893066406, 32.768108367919922 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Robert S.Kerr", "DAM_NAME": "Markham Ferry", "RIVER": "Arcansas", "YEAR": 1964, "VOLUME": 0.518, "USAGE": "132" }, "geometry": { "type": "Point", "coordinates": [ -94.722793579101562, 35.352760314941406 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Dardanelle", "DAM_NAME": null, "RIVER": "Arkansas", "YEAR": 1964, "VOLUME": 0.599, "USAGE": "164" }, "geometry": { "type": "Point", "coordinates": [ -93.060287475585938, 35.164710998535156 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Eufaula", "DAM_NAME": "Eufaula", "RIVER": "Canadian", "YEAR": 1964, "VOLUME": 4.741, "USAGE": "3126" }, "geometry": { "type": "Point", "coordinates": [ -95.384880065917969, 35.353580474853516 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Fort Gibson", "DAM_NAME": "Fort Gibson", "RIVER": "Neosho", "YEAR": 1949, "VOLUME": 1.582, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -95.314453125, 35.876338958740234 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Tenkiller Ferry", "DAM_NAME": "Tenkiller", "RIVER": "Illinois", "YEAR": 1952, "VOLUME": 1.517, "USAGE": "3142" }, "geometry": { "type": "Point", "coordinates": [ -95.151962280273438, 35.598899841308594 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake O'The Cherokees", "DAM_NAME": "Pensacola", "RIVER": "Neosho", "YEAR": 1940, "VOLUME": 2.707, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -94.793190002441406, 36.513118743896484 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Kaw Lake", "DAM_NAME": "Kaw", "RIVER": "Arkansas", "YEAR": 1976, "VOLUME": 1.662, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -97.041969299316406, 36.62677001953125 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Oologah", "DAM_NAME": "Oologah", "RIVER": "Verdigris", "YEAR": 1963, "VOLUME": 1.259, "USAGE": "3624" }, "geometry": { "type": "Point", "coordinates": [ -95.671806335449219, 36.562229156494141 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Keystone", "DAM_NAME": "Keystone", "RIVER": "Arkansas", "YEAR": 1964, "VOLUME": 0.688, "USAGE": "1362" }, "geometry": { "type": "Point", "coordinates": [ -96.06622314453125, 36.164539337158203 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Table Rock", "DAM_NAME": "Table Rock", "RIVER": "White", "YEAR": 1956, "VOLUME": 4.265, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -93.160118103027344, 36.600849151611328 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Beaver", "DAM_NAME": "Beaver", "RIVER": "White", "YEAR": 1963, "VOLUME": 2.038, "USAGE": "31" }, "geometry": { "type": "Point", "coordinates": [ -93.868873596191406, 36.412559509277344 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Bull Shoals", "DAM_NAME": "Bull Shoals", "RIVER": "White", "YEAR": 1951, "VOLUME": 6.663, "USAGE": "314" }, "geometry": { "type": "Point", "coordinates": [ -92.416946411132812, 36.297279357910156 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Norfork Lake", "DAM_NAME": "Norfork", "RIVER": "N.Fork of White", "YEAR": 1950, "VOLUME": 2.443, "USAGE": "7314" }, "geometry": { "type": "Point", "coordinates": [ -92.203773498535156, 36.168788909912109 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Wappapello Lake", "DAM_NAME": "Wappapello", "RIVER": "St.Francis", "YEAR": 1941, "VOLUME": 0.77, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -90.286468505859375, 36.970909118652344 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Clearwater Lake", "DAM_NAME": "Clearwater", "RIVER": "Black", "YEAR": 1942, "VOLUME": 0.51, "USAGE": "34" }, "geometry": { "type": "Point", "coordinates": [ -90.727378845214844, 37.118480682373047 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Lake of the Ozarks", "DAM_NAME": "Osage", "RIVER": "Osage", "YEAR": 1931, "VOLUME": 2.492, "USAGE": "143" }, "geometry": { "type": "Point", "coordinates": [ -92.572906494140625, 38.235801696777344 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Harry S.Truman", "DAM_NAME": "Harry S.Truman", "RIVER": "Osage", "YEAR": 1979, "VOLUME": 1.483, "USAGE": "134" }, "geometry": { "type": "Point", "coordinates": [ -93.138946533203125, 38.197479248046875 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Kanopolis", "DAM_NAME": "Kanopolis", "RIVER": "Smoky Hill", "YEAR": 1948, "VOLUME": 0.533, "USAGE": "345" }, "geometry": { "type": "Point", "coordinates": [ -98.1688232421875, 38.628658294677734 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "John Redmond", "DAM_NAME": null, "RIVER": "Neosho", "YEAR": 1965, "VOLUME": 0.795, "USAGE": "324" }, "geometry": { "type": "Point", "coordinates": [ -95.758216857910156, 38.167461395263672 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Amistad", "DAM_NAME": "International Amistad", "RIVER": "Rio Grande", "YEAR": 1969, "VOLUME": 4.324, "USAGE": "3541" }, "geometry": { "type": "Point", "coordinates": [ -100.957801818847656, 29.357149124145508 ] } }
+,
+{ "type": "Feature", "properties": { "RES_NAME": "Falcon", "DAM_NAME": "International Falcon", "RIVER": "Rio Grande", "YEAR": 1953, "VOLUME": 4.042, "USAGE": "35214" }, "geometry": { "type": "Point", "coordinates": [ -99.1473388671875, 26.557479858398438 ] } }
+
+]
+}
